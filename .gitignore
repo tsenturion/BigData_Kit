@@ -1,0 +1,18 @@
+*
+
+!/.gitignore
+!/course/
+!/course/data/
+!/course/data/access.log
+!/course/data/customers.csv
+!/course/data/orders.csv
+!/course/data/products.csv
+!/course/practice/
+!/course/practice/Модуль 1 Обработка данных в Pandas/
+!/course/practice/Модуль 1 Обработка данных в Pandas/01_Таблицы_преобразования_и_качество.ipynb
+!/course/practice/Модуль 1 Обработка данных в Pandas/02_Аналитика_продаж_и_покупателей.ipynb
+!/course/practice/Модуль 1 Обработка данных в Pandas/03_Анализ_веб_журнала.ipynb
+!/course/practice/Модуль 1 Обработка данных в Pandas/04_Память_и_обработка_частями.ipynb
+
+AGENTS.md
+SKILL.md
