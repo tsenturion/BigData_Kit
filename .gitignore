@@ -14,5 +14,15 @@
 !/course/practice/Модуль 1 Обработка данных в Pandas/03_Анализ_веб_журнала.ipynb
 !/course/practice/Модуль 1 Обработка данных в Pandas/04_Память_и_обработка_частями.ipynb
 
+!/course/practice/Модуль 2 Модели машинного обучения в Scikit-learn/
+!/course/practice/Модуль 2 Модели машинного обучения в Scikit-learn/data/
+!/course/practice/Модуль 2 Модели машинного обучения в Scikit-learn/data/delivery_risk.csv
+!/course/practice/Модуль 2 Модели машинного обучения в Scikit-learn/01_Задача_данные_и_подготовка_признаков.ipynb
+!/course/practice/Модуль 2 Модели машинного обучения в Scikit-learn/02_Логистическая_регрессия_и_метрики.ipynb
+!/course/practice/Модуль 2 Модели машинного обучения в Scikit-learn/03_Дерево_решений.ipynb
+!/course/practice/Модуль 2 Модели машинного обучения в Scikit-learn/04_Случайный_лес.ipynb
+!/course/practice/Модуль 2 Модели машинного обучения в Scikit-learn/05_Сравнение_моделей_и_выбор_решения.ipynb
+!/course/practice/Модуль 2 Модели машинного обучения в Scikit-learn/06_Сохранение_и_применение_модели.ipynb
+
 AGENTS.md
 SKILL.md
