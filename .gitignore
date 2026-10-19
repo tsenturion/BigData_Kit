@@ -7,6 +7,7 @@
 !/course/data/customers.csv
 !/course/data/orders.csv
 !/course/data/products.csv
+!/course/data/reviews.txt
 !/course/practice/
 !/course/practice/Модуль 1 Обработка данных в Pandas/
 !/course/practice/Модуль 1 Обработка данных в Pandas/01_Таблицы_преобразования_и_качество.ipynb
@@ -23,6 +24,14 @@
 !/course/practice/Модуль 2 Модели машинного обучения в Scikit-learn/04_Случайный_лес.ipynb
 !/course/practice/Модуль 2 Модели машинного обучения в Scikit-learn/05_Сравнение_моделей_и_выбор_решения.ipynb
 !/course/practice/Модуль 2 Модели машинного обучения в Scikit-learn/06_Сохранение_и_применение_модели.ipynb
+
+!/course/practice/Модуль 3 Анализ текстовых данных/
+!/course/practice/Модуль 3 Анализ текстовых данных/data/
+!/course/practice/Модуль 3 Анализ текстовых данных/data/support_messages.csv
+!/course/practice/Модуль 3 Анализ текстовых данных/01_Корпус_и_подготовка_текста.ipynb
+!/course/practice/Модуль 3 Анализ текстовых данных/02_Числовые_представления_текста.ipynb
+!/course/practice/Модуль 3 Анализ текстовых данных/03_Классификация_текстов.ipynb
+!/course/practice/Модуль 3 Анализ текстовых данных/04_Сходство_поиск_и_группировка_текстов.ipynb
 
 AGENTS.md
 SKILL.md
